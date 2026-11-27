@@ -5,7 +5,7 @@
 ## 怎么用
 
 - **当世界书导入**：下载 [knot-stickers-worldbook.json](knot-stickers-worldbook.json)，在 Aru / 酒馆里导入成世界书，开着就行。
-- **Word 版**：[小结表情包.docx](小结表情包.docx)，每张配小图、名字、用法和图链。
+- **Word 版**：[knot-stickers.docx](knot-stickers.docx)，每张配小图、名字、用法和图链。
 - **当提示词用**：把 [knot-stickers.md](knot-stickers.md) 整份复制，贴进 AI 的世界书或提示词。
 
 AI 想发表情时，会单独一行写出 `![小结跳舞](图链)`，支持 markdown 图片的界面就会显示成动图。
