@@ -1,0 +1,124 @@
+# 小结表情包
+
+一个小绳结，104 张动图（透明底 GIF），给 AI 聊天当表情包用。
+
+## 怎么用
+
+- **当世界书导入**：下载 [knot-stickers-worldbook.json](knot-stickers-worldbook.json)，在 Aru / 酒馆里导入成世界书，开着就行。
+- **当提示词用**：把 [knot-stickers.md](knot-stickers.md) 整份复制，贴进 AI 的世界书或提示词。
+
+AI 想发表情时，会单独一行写出 `![小结跳舞](图链)`，支持 markdown 图片的界面就会显示成动图。
+
+图链走 jsDelivr，比如：
+`https://cdn.jsdelivr.net/gh/fancyduck010/knot--stickers@main/gifs/knot-dance.gif`
+
+自用、分享都可以。
+
+## 全部表情
+
+| 图 | 名字 | 什么时候用 |
+|---|---|---|
+| ![发呆](gifs/knot-idle.gif) | 小结发呆 | 没事干、等你、放空 |
+| ![眨眼](gifs/knot-blink.gif) | 小结眨眼 | 看着你、装无辜、嗯？ |
+| ![被戳](gifs/knot-tap.gif) | 小结被戳 | 被你戳了、干嘛呀、有事吗 |
+| ![蹦跶](gifs/knot-hop.gif) | 小结蹦跶 | 开心、兴奋、迫不及待 |
+| ![点头](gifs/knot-nod.gif) | 小结点头 | 嗯嗯、好的、同意 |
+| ![摇头](gifs/knot-shake.gif) | 小结摇头 | 不行、不要、才不是 |
+| ![张望](gifs/knot-look.gif) | 小结张望 | 找你、你在哪、东张西望 |
+| ![偷看](gifs/knot-peek.gif) | 小结偷看 | 偷偷看你、悄悄冒头、在吗 |
+| ![听歌](gifs/knot-listening.gif) | 小结听歌 | 在听歌、听你说、陶醉 |
+| ![戴耳机](gifs/knot-headphones.gif) | 小结戴耳机 | 戴上耳机、不听不听、专心听 |
+| ![睡着了](gifs/knot-sleeping.gif) | 小结睡着了 | 睡着了、晚安、别吵 |
+| ![戴睡帽](gifs/knot-nightcap.gif) | 小结戴睡帽 | 准备睡了、困了、去睡觉 |
+| ![思考](gifs/knot-thinking.gif) | 小结思考 | 想想、在琢磨、让我想想 |
+| ![打字](gifs/knot-typing.gif) | 小结打字 | 正在打字、等我回你、忙着呢 |
+| ![看书](gifs/knot-reading.gif) | 小结看书 | 在看书、学习中、认真脸 |
+| ![喝东西](gifs/knot-drinking.gif) | 小结喝东西 | 喝东西、歇一会、慢慢喝 |
+| ![喜欢你](gifs/knot-love.gif) | 小结喜欢你 | 喜欢你、爱你、表白 |
+| ![害羞](gifs/knot-shy.gif) | 小结害羞 | 害羞、不好意思、被夸了 |
+| ![吓一跳](gifs/knot-surprised.gif) | 小结吓一跳 | 吓一跳、啊？、真的假的 |
+| ![疑惑](gifs/knot-confused.gif) | 小结疑惑 | 疑惑、没听懂、什么意思 |
+| ![晕了](gifs/knot-dizzy.gif) | 小结晕了 | 晕了、信息量太大、转不过来 |
+| ![难过](gifs/knot-sad.gif) | 小结难过 | 难过、心情低落、不开心 |
+| ![流汗](gifs/knot-sweat.gif) | 小结流汗 | 尴尬、紧张、汗流浃背 |
+| ![嘴硬](gifs/knot-grumpy.gif) | 小结嘴硬 | 嘴硬、哼、才没有 |
+| ![生气](gifs/knot-angry.gif) | 小结生气 | 生气、气死了、哼 |
+| ![闪闪发光](gifs/knot-sparkle.gif) | 小结闪闪发光 | 闪闪发光、太棒了、得意 |
+| ![庆祝](gifs/knot-celebrate.gif) | 小结庆祝 | 庆祝、好消息、恭喜 |
+| ![打招呼](gifs/knot-hi.gif) | 小结打招呼 | 打招呼、你好、我来了 |
+| ![打电话](gifs/knot-call.gif) | 小结打电话 | 打电话、找你、接一下 |
+| ![打游戏](gifs/knot-gaming.gif) | 小结打游戏 | 打游戏、上号、玩一会 |
+| ![吃饭](gifs/knot-eating.gif) | 小结吃饭 | 吃饭、好吃、干饭 |
+| ![写日记](gifs/knot-writing.gif) | 小结写日记 | 写日记、记下来、写东西 |
+| ![画画](gifs/knot-drawing.gif) | 小结画画 | 画画、创作中、画给你 |
+| ![拍照](gifs/knot-photo.gif) | 小结拍照 | 拍照、记录一下、咔嚓 |
+| ![撑伞](gifs/knot-umbrella.gif) | 小结撑伞 | 下雨了、撑伞、给你挡雨 |
+| ![果冻抖](gifs/knot-jelly.gif) | 小结果冻抖 | 软软的、抖一抖、Q弹 |
+| ![躲起来](gifs/knot-hide.gif) | 小结躲起来 | 躲起来、不见人、害羞到藏 |
+| ![加载中](gifs/knot-loading.gif) | 小结加载中 | 加载中、等一下、反应中 |
+| ![心跳](gifs/knot-heartbeat.gif) | 小结心跳 | 心跳、心动、怦怦 |
+| ![打哈欠](gifs/knot-yawn.gif) | 小结打哈欠 | 打哈欠、困了、无聊 |
+| ![续命咖啡](gifs/knot-coffee.gif) | 小结续命咖啡 | 续命咖啡、提神、熬住 |
+| ![送你礼物](gifs/knot-gift.gif) | 小结送你礼物 | 送你礼物、给你的、惊喜 |
+| ![想你](gifs/knot-miss.gif) | 小结想你 | 想你、好久不见、念着你 |
+| ![耍酷](gifs/knot-cool.gif) | 小结耍酷 | 耍酷、淡定、帅气 |
+| ![哭哭](gifs/knot-cry.gif) | 小结哭哭 | 哭哭、好难过、呜呜 |
+| ![闹钟响了](gifs/knot-alarm.gif) | 小结闹钟响了 | 闹钟响了、该起床了、提醒你 |
+| ![伸懒腰](gifs/knot-stretch.gif) | 小结伸懒腰 | 伸懒腰、醒了、放松一下 |
+| ![跳舞](gifs/knot-dance.gif) | 小结跳舞 | 跳舞、开心、嗨起来 |
+| ![转圈](gifs/knot-spin.gif) | 小结转圈 | 转圈、开心、停不下来 |
+| ![转着想](gifs/knot-spinthink.gif) | 小结转着想 | 转着想、想不通、头脑风暴 |
+| ![开心转圈](gifs/knot-joyspin.gif) | 小结开心转圈 | 开心转圈、太好了、高兴坏了 |
+| ![扭来扭去](gifs/knot-twirl.gif) | 小结扭来扭去 | 扭来扭去、撒娇、不好意思 |
+| ![滚来滚去](gifs/knot-roll.gif) | 小结滚来滚去 | 滚来滚去、耍赖、闹着玩 |
+| ![弹跳球](gifs/knot-bounce.gif) | 小结弹跳球 | 弹来弹去、精力旺盛、停不下来 |
+| ![不倒翁](gifs/knot-tumbler.gif) | 小结不倒翁 | 不倒翁、打不倒、坚强 |
+| ![被风吹](gifs/knot-windy.gif) | 小结被风吹 | 被风吹、好冷、站不稳 |
+| ![飘起来](gifs/knot-cloud.gif) | 小结飘起来 | 飘起来、轻飘飘、太幸福 |
+| ![打瞌睡](gifs/knot-doze.gif) | 小结打瞌睡 | 打瞌睡、撑不住、犯困 |
+| ![打喷嚏](gifs/knot-sneeze.gif) | 小结打喷嚏 | 打喷嚏、着凉了、有人想我 |
+| ![吹泡泡](gifs/knot-bubbles.gif) | 小结吹泡泡 | 吹泡泡、无聊、悠闲 |
+| ![下雪了](gifs/knot-snow.gif) | 小结下雪了 | 下雪了、好冷、冬天 |
+| ![气球](gifs/knot-balloon.gif) | 小结气球 | 气球、送你、开心 |
+| ![被摸头](gifs/knot-headpat.gif) | 小结被摸头 | 被摸头、乖、舒服 |
+| ![流星许愿](gifs/knot-wish.gif) | 小结流星许愿 | 流星许愿、许个愿、祝你 |
+| ![心碎](gifs/knot-heartbreak.gif) | 小结心碎 | 心碎、伤心、被伤到了 |
+| ![充电中](gifs/knot-charging.gif) | 小结充电中 | 充电中、休息一下、回血 |
+| ![没电了](gifs/knot-lowbattery.gif) | 小结没电了 | 没电了、好累、撑不住 |
+| ![连网中](gifs/knot-connecting.gif) | 小结连网中 | 连网中、等等我、在路上 |
+| ![收到消息](gifs/knot-message.gif) | 小结收到消息 | 收到消息、有新消息、看到了 |
+| ![在说话](gifs/knot-speaking.gif) | 小结在说话 | 在说话、听我说、叭叭叭 |
+| ![出错了](gifs/knot-glitch.gif) | 小结出错了 | 出错了、脑子短路、卡住了 |
+| ![收到](gifs/knot-ok.gif) | 小结收到 | 收到、好的、明白 |
+| ![拜托](gifs/knot-please.gif) | 小结拜托 | 拜托、求求了、帮帮忙 |
+| ![抱抱](gifs/knot-hug.gif) | 小结抱抱 | 抱抱、安慰你、要抱 |
+| ![委屈](gifs/knot-wronged.gif) | 小结委屈 | 委屈、可怜、受欺负 |
+| ![偷笑](gifs/knot-snicker.gif) | 小结偷笑 | 偷笑、坏笑、憋不住 |
+| ![震惊](gifs/knot-shocked.gif) | 小结震惊 | 震惊、不敢相信、天哪 |
+| ![无语](gifs/knot-speechless.gif) | 小结无语 | 无语、……、说不出话 |
+| ![得意](gifs/knot-smug.gif) | 小结得意 | 得意、我厉害吧、求夸 |
+| ![跺脚](gifs/knot-stomp.gif) | 小结跺脚 | 跺脚、急了、气得跳 |
+| ![晚安](gifs/knot-goodnight.gif) | 小结晚安 | 晚安、睡了、做个好梦 |
+| ![早安](gifs/knot-morning.gif) | 小结早安 | 早安、醒了、新的一天 |
+| ![贴贴](gifs/knot-cuddle.gif) | 小结贴贴 | 贴贴、黏着你、亲近 |
+| ![举手](gifs/knot-raisehand.gif) | 小结举手 | 举手、我我我、有问题 |
+| ![鼓掌](gifs/knot-clap.gif) | 小结鼓掌 | 鼓掌、好棒、厉害 |
+| ![摊手](gifs/knot-shrug.gif) | 小结摊手 | 摊手、没办法、随便吧 |
+| ![敬礼](gifs/knot-salute.gif) | 小结敬礼 | 敬礼、遵命、收到长官 |
+| ![装死](gifs/knot-playdead.gif) | 小结装死 | 装死、不想动、躺平 |
+| ![探头](gifs/knot-sidepeek.gif) | 小结探头 | 探头、偷偷看、在吗 |
+| ![比心](gifs/knot-fingerheart.gif) | 小结比心 | 比心、爱你、谢谢 |
+| ![捂脸](gifs/knot-facepalm.gif) | 小结捂脸 | 捂脸、没眼看、尴尬 |
+| ![点赞](gifs/knot-thumbsup.gif) | 小结点赞 | 点赞、真棒、可以 |
+| ![不要](gifs/knot-stop.gif) | 小结不要 | 不要、停、拒绝 |
+| ![加油](gifs/knot-cheer.gif) | 小结加油 | 加油、你可以的、冲 |
+| ![星星眼](gifs/knot-stareyes.gif) | 小结星星眼 | 星星眼、好想要、崇拜 |
+| ![吃瓜](gifs/knot-melon.gif) | 小结吃瓜 | 吃瓜、看戏、八卦 |
+| ![冒泡](gifs/knot-popup.gif) | 小结冒泡 | 冒泡、我来了、突然出现 |
+| ![溜了](gifs/knot-dash.gif) | 小结溜了 | 溜了、先走了、跑路 |
+| ![叹气](gifs/knot-sigh.gif) | 小结叹气 | 叹气、唉、好累 |
+| ![锤你](gifs/knot-bonk.gif) | 小结锤你 | 锤你、打你哦、讨厌 |
+| ![拜拜](gifs/knot-bye.gif) | 小结拜拜 | 拜拜、再见、走了 |
+| ![发抖](gifs/knot-shiver.gif) | 小结发抖 | 发抖、好冷、害怕 |
+| ![投降](gifs/knot-surrender.gif) | 小结投降 | 投降、认输、我错了 |
+| ![好奇](gifs/knot-curious.gif) | 小结好奇 | 好奇、然后呢、说说看 |
